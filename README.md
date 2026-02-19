@@ -139,3 +139,6 @@ O projeto utiliza media queries e imagens otimizadas para diferentes tamanhos de
 
 Este é um projeto educacional/portfólio. O conteúdo e marcas relacionadas a Stranger Things são propriedade da Netflix.
 
+
+https://dev-art-stranger-things-eight.vercel.app/
+
