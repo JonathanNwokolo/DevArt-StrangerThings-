@@ -95,11 +95,6 @@ DevArt StrangerThings/
 - Texto infinito deslizante
 
 
-
-3. **Acesse no navegador**
-   - Direto: `file:///caminho/para/index.html`
-   - Local: `http://localhost:8000`
-
 ## 📱 Responsividade
 
 O projeto utiliza media queries e imagens otimizadas para diferentes tamanhos de tela:
